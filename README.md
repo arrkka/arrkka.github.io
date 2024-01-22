@@ -1,5 +1,5 @@
 # ColorSweeper
 
-[Privacy Policy](/cs/privacy/index.html)
+[Privacy Policy](arrkka.github.io/cs/privacy/index.html)
 
-[Support](/cs/support/index.html)
+[Support](arrkka.github.io/cs/support/index.html)
