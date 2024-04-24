@@ -23,8 +23,23 @@
 .content {
   font-family: "Roboto", sans-serif;
   padding: 1em;
-  margin-left: 12%;
-  margin-right: 12%;
+  margin: auto;
+}
+
+@media (min-width: 1200px) {
+  .content {
+    width: 1170px;
+  }
+}
+@media (min-width: 992px) {
+  .content {
+    width: 970px;
+  }
+}
+@media (min-width: 768px) {
+  .content {
+    width: 750px;
+  }
 }
 
 .fit {
